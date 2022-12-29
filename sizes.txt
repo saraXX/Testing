@@ -1,0 +1,13 @@
+in: 14x10 =25rs  \ cm: 25x35
+in:18x24 = 45rs  \cm:45x60
+in:12x24 = 39rs   \ cm:30x60
+45rs  \cm:50x50
+
+in:16x20 = 30rs
+
+=59rs \ cm:60x60
+in: 20x30 = 55rs \ cm:50x76
+in 20x24 = 49rs \ cm50x60
+in: 24x36 = 75rs \ cm:60x91
+in: 30x40 = 95rs \ cm:76x101
+in: 30x48 = 114rs\ cm:76x121
